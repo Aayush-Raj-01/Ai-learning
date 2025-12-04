@@ -9,3 +9,5 @@ tensor1 = tf.ones([1,3,4])
 
 
 print(tensor1)
+print(tensor1)
+print(tensor1)
